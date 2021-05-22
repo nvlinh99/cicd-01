@@ -4,7 +4,7 @@ import random
 buzz = ('continuous testing', 'continuous integration', 'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service',	'integrated',	'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly', 'seriously')
-names = ('Ngoc Linh',	'Vu Linh', 'My Loan', 'Ngoc My')
+names = ('Ngoc Linh',	'Vu Linh', 'My Loan', 'Ngoc My', '20HCB1', 'HCMUS')
 
 def sample(l, n = 1):
 		result = random.sample(l, n)
