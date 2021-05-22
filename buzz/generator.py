@@ -3,7 +3,7 @@ import random
 
 buzz = ('continuous testing', 'continuous integration', 'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service',	'integrated',	'end-to-end')
-adverbs = ('remarkably', 'enormously', 'substantially', 'significantly', 'seriously')
+adverbs = ('Mang may tinh mang cao', 'He quan trị CSDL', 'Khai thac du lieu va ung dung', 'Lap trinh java', 'AV4')
 names = ('20424048','Vu Linh','20HCB1', 'HCMUS')
 
 def sample(l, n = 1):
